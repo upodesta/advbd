@@ -8,9 +8,9 @@ keywords: Income tax Advisor, Tax Advisor, taxadvisor, Tax Consultants, Company 
 
 # Your website URL 
 # Used for Sitemap.xml and your RSS feed
-url: 
+url: https://taxadvisors.com.bd
      
-baseurl: 
+baseurl: https://taxadvisors.com.bd
 
 # Team names, titles and social links
 # a change in the length of the longest description affects /agency.css .team-member p.description
